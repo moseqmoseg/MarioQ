@@ -7,13 +7,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on improving my skills and looking for a job.
-- 🌱 I’m currently learning Next.js and Typescript
-- 📫 How to reach me: mariojqg@gmail.com
-- ⚡ Fun fact: I've watched over 2000 films.
 -->
 
 
+- 📚 I recently graduated from a 1 year training (MERN stack)
+
+- 🔭 I’m currently working on improving my skillset and looking for a job
+
+- 🌱 I’m currently learning TypeScript and Next.js
+
+- ⚡ Fun fact: I've watched over 2000 films.
 
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47pkkpxlegs44r1fbegu74ltscfjtpltyxb5in7i29&rid=giphy.gif&ct=s" width="60" height ="70">
 
