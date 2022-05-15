@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I've watched over 2000 films.
 
+
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47pkkpxlegs44r1fbegu74ltscfjtpltyxb5in7i29&rid=giphy.gif&ct=s" width="60" height ="70">
 
 ### Project Links
