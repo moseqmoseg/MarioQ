@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm  Mario 👋</h1>
+<h1 align="center" style="color:purple">Hi, I'm  Mario  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg"></h1>
 <h2 align="center"> I like to make things</h2>
 
 <!--
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <p align="center"> I have been a developer for about three years now and I'm constantly trying to improve my skills. My background is in music and audio engineering and I enjoy being able to transfer my creative energy into the development world. I'm currently building a management system for my studio and I'm also learning Typescript. Contact me if you want to work together or have a job you think I might be good for</>
 
-<a href="https://www.w3schools.com" target="_blank"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center"><a href="https://www.linkedin.com/in/mario-quezada-galan-b33129222/" target="_blank"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href= "mailto:mariojqg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></P>
 
 
 ### Project Links
