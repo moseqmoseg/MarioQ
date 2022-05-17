@@ -3,7 +3,7 @@
 <h1 align="center" style="color:purple">Hi, I'm  Mario </h1>
 
 <h2 align="center"> I like to make things</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg" width="100">
+<img  align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg" width="100">
 
 <!--
 **moseqmoseg/MarioQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
