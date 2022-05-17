@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ### Project Links
 
-<h4>-[Tuudo App (simple Todo List):](https://somethingtudoo.netlify.app/).</h4>
+*[-Tuudo App (simple Todo List)](https://somethingtudoo.netlify.app/)*.
 
--Terraforming Game: https://terraforminggame.netlify.app/
+
+*[-Terraforming Game](https://terraforminggame.netlify.app/)*.
 
 
 ### Languages and Tools:
