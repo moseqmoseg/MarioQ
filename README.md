@@ -1,5 +1,5 @@
 
-
+<h1 align="center"> <img src="https://i.ibb.co/qswNsQP/Linked-In-Cover-1584x396-px.jpg"</></h1>
 <h1 align="center" > Hi, I'm  Mario </h1>
 
 <h2 align="center"> I like to make things</h2>
