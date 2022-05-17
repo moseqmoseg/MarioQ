@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -
 
 
-<p align="center"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</p>
+<p align="center">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-quezada-galan-b33129222/)</p>
 ### Project Links
 
 -Tuudo App (simple Todo List): https://somethingtudoo.netlify.app/
