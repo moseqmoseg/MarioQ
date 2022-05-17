@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Project Links
 
--Tuudo App (simple Todo List): https://somethingtudoo.netlify.app/
+<h3>-Tuudo App (simple Todo List): https://somethingtudoo.netlify.app/ </h3>
 
 -Terraforming Game: https://terraforminggame.netlify.app/
 
