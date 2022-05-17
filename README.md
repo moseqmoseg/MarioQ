@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="color:purple">Hi, I'm  Mario  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg"></h1>
+<h1 align="center" style="color:purple">Hi, I'm  Mario  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Bash_Logo_black_and_white_icon_only.svg" width="200"></h1>
 <h2 align="center"> I like to make things</h2>
 
 <!--
