@@ -1,6 +1,7 @@
 # MarioQ
 
-<h2 align="center">Hi, I'm  Mario 👋</h2>
+<h1 align="center">Hi, I'm  Mario 👋</h1>
+<h2 align="center" color="purple"> I like to make things</h2>
 
 <!--
 **moseqmoseg/MarioQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,6 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
+<p align="center"> I am 
 
 - 📚 I recently graduated from a 1 year training (MERN stack)
 
