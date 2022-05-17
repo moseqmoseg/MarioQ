@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <p align="center"> I have been a developer for about three years now and I'm constantly trying to improve my skills. My background is in music and audio engineering and I enjoy being able to transfer my creative energy into the development world. I'm currently building a management system for my studio and I'm also learning Typescript. Contact me if you want to work together or have a job you think I might be good for</>
 
-<img src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/>
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 
 ### Project Links
