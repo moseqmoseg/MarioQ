@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://www.linkedin.com/in/mario-quezada-galan-b33129222/" target="_blank"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> <a href= "mailto:mariojqg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></P>
 
 
-### Project Links
-
-*[-Tuudo App (simple Todo List)](https://somethingtudoo.netlify.app/)*.
-
-
-*[-Terraforming Game](https://terraforminggame.netlify.app/)*.
+<p align="center">
+<h3>Example Projects:</>
+<a href="https://somethingtudoo.netlify.app/" title="Tuudo App">-Tuudo App (simple Todo List)</a>
+<a href="https://terraforminggame.netlify.app/" title="Terraforming Game">-Terraforming Game</a> 
+</p>
 
 
 ### Languages and Tools:
