@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br></br>
 <a href="https://terraforminggame.netlify.app/" title="Terraforming Game">-Terraforming Game</a> 
 <br></br>
-<a href="https://kanyesaid.netlify.app/" title="The Mind of a Genius">The Mind of a Genius</a>
+<a href="https://kanyesaid.netlify.app/" title="The Mind of a Genius">-The Mind of a Genius</a>
 </p>
 
 
