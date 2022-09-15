@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Example Projects:</h3>
 <p align="center">
-<a href="https://somethingtudoo.netlify.app/" title="Tuudo App">-Tuudo App (simple Todo List)</a>
+<a href="https://somethingtudoo.netlify.app/" title="Tudoo App">-Tudoo App (simple Todo List)</a>
   <br></br>
 <a href="https://terraforminggame.netlify.app/" title="Terraforming Game">-Terraforming Game</a> 
 <br></br>
